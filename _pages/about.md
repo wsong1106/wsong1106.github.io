@@ -7,22 +7,36 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I am a Ph.D. candidate at the Department of Electrical and Computer Engineering at The University of Texas at Austin, advised by [Joydeep Ghosh](https://www.ece.utexas.edu/people/faculty/joydeep-ghosh) and [Ying Ding](https://yingding.ischool.utexas.edu/), while working closely with [Yifan Peng](https://pengyifan.com/). My research interests revolve around Natural Language Processing, Biomedical applications of LLMs. Before my Ph.D., I obtained my M.S. in Electrical and Computer Engineering at The University of Texas at Austin in 2021.
+Hi, I recently completed my Ph.D. in Electrical and Computer Engineering at The University of Texas at Austin, advised by [Joydeep Ghosh](https://www.ece.utexas.edu/people/faculty/joydeep-ghosh) and [Ying Ding](https://yingding.ischool.utexas.edu/), while working closely with [Yifan Peng](https://pengyifan.com/). My research interests revolve around Natural Language Processing, Biomedical applications of LLMs. Before my Ph.D., I obtained my M.S. in Electrical and Computer Engineering at The University of Texas at Austin in 2021.
 
 ## Publications
+### 2025
+
+**A Multi-Stage Large Language Model Framework for Extracting Suicide-Related Social Determinants of Health** [<i class="fa-solid fa-file"></i>](https://www.nature.com/articles/s43856-025-01114-z) \\
+<u>Song Wang</u>, Yishu Wei, Haotian Ma, Max Lovitt, Kelly Deng, Yuan Meng, Zihan Xu, Jingze Zhang, Yunyu Xiao, Ying Ding, Xuhai Xu, Joydeep Ghosh & Yifan Peng \\
+<em>Nature Communications Medicine, 2025.</em>
+
+**CXR-LT 2024: A MICCAI challenge on long-tailed, multi-label, and zero-shot disease classification from chest X-ray** [<i class="fa-solid fa-file"></i>](https://www.sciencedirect.com/science/article/pii/S1361841525002865) \\
+Mingquan Lin, Gregory Holste, <u>Song Wang</u>, Yiliang Zhou, Yishu Wei, Imon Banerjee, Pengyi Chen, Tianjie Dai, Yuexi Du, Nicha C Dvornek, Yuyan Ge, Zuwei Guo, Shouhei Hanaoka, Dongkyun Kim, Pablo Messina, Yang Lu, Denis Parra, Donghyun Son, Álvaro Soto, Aisha Urooj, René Vidal, Yosuke Yamagishi, Zefan Yang, Ruichi Zhang, Yang Zhou, Leo Anthony Celi, Ronald M Summers, Zhiyong Lu, Hao Chen, Adam Flanders, George Shih, Zhangyang Wang, Yifan Peng \\
+<em>Medical Image Analysis, 2025.</em>
+
+**SDoH-GPT: Using Large Language Models to Extract Social Determinants of Health (SDoH)** [<i class="fa-solid fa-file"></i>](https://academic.oup.com/jamia/advance-article/doi/10.1093/jamia/ocaf094/8159915) \\
+Bernardo Consoli, Xizhi Wu, <u>Song Wang</u>, Xinyu Zhao, Yanshan Wang, Justin Rousseau, Tom Hartvigsen, Li Shen, Huanmei Wu, Yifan Peng, Qi Long, Tianlong Chen, Ying Ding \\
+<em>Journal of the American Medical Informatics Association (JAMIA), 2025.</em>
+
 ### 2024
+
+**Suicide Risk Assessment on Social Media with Semi-Supervised Learning** [<i class="fa-solid fa-file"></i>](https://ieeexplore.ieee.org/abstract/document/10825422) \\
+Max Lovitt, Haotian Ma, <u>Song Wang</u>, Yifan Peng\\
+<em>IEEE International Conference on Big Data, 2024.</em>
 
 **A Natural Language Processing Approach to Detect Inconsistencies in Death Investigation Notes Attributing Suicide Circumstances** [<i class="fa-solid fa-file"></i>](https://www.nature.com/articles/s43856-024-00631-7) \\
 <u>Song Wang</u>, Yiliang Zhou, Ziqiang Han, Cui Tao, Yunyu Xiao, Ying Ding, Joydeep Ghosh, Yifan Peng\\
-<em>Communications Medicine, 2024.</em>
+<em>Nature Communications Medicine, 2024.</em>
 
 **Closing the Gap between Open-Source and Commercial Large Language Models for Medical Evidence Summarization** [<i class="fa-solid fa-file"></i>](https://arxiv.org/abs/2408.00588) \\
 Gongbo Zhang, Qiao Jin, Yiliang Zhou, <u>Song Wang</u>, Betina R. Idnay, Yiming Luo, Elizabeth Park, Jordan G. Nestor, Matthew E. Spotnitz, Ali Soroush, Thomas Campion, Zhiyong Lu, Chunhua Weng, Yifan Peng\\
 <em>npj Digital Medicine, 2024.</em>
-
-**SDoH-GPT: Using Large Language Models to Extract Social Determinants of Health (SDoH)** [<i class="fa-solid fa-file"></i>](https://arxiv.org/abs/2407.17126) \\
-Bernardo Consoli, Xizhi Wu, <u>Song Wang</u>, Xinyu Zhao, Yanshan Wang, Justin Rousseau, Tom Hartvigsen, Li Shen, Huanmei Wu, Yifan Peng, Qi Long, Tianlong Chen, Ying Ding\\
-<em>arXiv preprint, 2024.</em>
 
 **Towards Long-Tailed, Multi-Label Disease Classification from Chest X-ray: Overview of the CXR-LT Challenge** [<i class="fa-solid fa-file"></i>](https://www.sciencedirect.com/science/article/pii/S136184152400149X) \\
 Gregory Holste, Yiliang Zhou, <u>Song Wang</u>, Ajay Jaiswal, Mingquan Lin, Sherry Zhuge, Yuzhe Yang, Dongkyun Kim, Trong-Hieu Nguyen-Mau, Minh-Triet Tran, Jaehyup Jeong, Wongi Park, Jongbin Ryu, Feng Hong, Arsh Verma, Yosuke Yamagishi, Changhyun Kim, Hyeryeong Seo, Myungjoo Kang, Leo Anthony Celi, Zhiyong Lu, Ronald M. Summers, George Shih, Zhangyang Wang, Yifan Peng. \\
